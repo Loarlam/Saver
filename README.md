@@ -6,4 +6,4 @@
 >1. требуется .NET Framework 4.7.8.
 
 Подытог: вот такенный майндфак на выходе
->![](Saver/Resources/ImageWithIcons.png)
+>![](Saver/Program_output.png)
